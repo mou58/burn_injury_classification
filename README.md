@@ -21,4 +21,7 @@ keras-tensorflow. One can learn -
 [Burns_BIP_US_database](http://personal.us.es/rboloix/Burns_BIP_US_database.zip "Burns_BIP_US_database")
 
 This database belongs to the Biomedical Image Processing (BIP) Group from the Signal Theory and
-Communications Department (University of Seville, SPAIN) and Virgen del Rocío Hospital (Seville, SPAIN). 
+Communications Department (University of Seville, SPAIN) and Virgen del RocÃ­o Hospital (Seville, SPAIN). 
+
+
+[here](https://github.com/mou58/burn_injury_classification)
