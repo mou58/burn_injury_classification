@@ -18,7 +18,7 @@ keras-tensorflow. One can learn -
 - plotting weight matrix
 
 #### Dataset
-[Burns_BIP_US_database](http://personal.us.es/rboloix/Burns_BIP_US_database.zip "Burns_BIP_US_database")
+[Burns_BIP_US_database](http://personal.us.es/rboloix/Burns_BIP_US_database.zip)
 
 This database belongs to the Biomedical Image Processing (BIP) Group from the Signal Theory and
 Communications Department (University of Seville, SPAIN) and Virgen del Rocío Hospital (Seville, SPAIN). 
